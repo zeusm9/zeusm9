@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![zeusm9's github stats](https://github-readme-stats.vercel.app/api?username=zeusm9&theme=darcula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeusm9)](https://github.com/zeusm9/github-readme-stats)
